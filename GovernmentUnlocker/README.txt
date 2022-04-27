@@ -1,0 +1,1 @@
+This mod unlocks all government types for for selection for all races. Minor updates are done to the government descriptions to remove references to restrictions, replace nonfunctional special characters, fix a bit of grammar, and clean up spacing to prevent lines from overrunning and being cut off.
